@@ -1,6 +1,6 @@
 {
   "name": "workflow",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Test for workflow",
   "main": "src/js/joker.js",
   "type": "module",
